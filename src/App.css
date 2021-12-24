@@ -15,8 +15,13 @@ body{
   padding-top: 3rem;
 }
 
+
 h1, h2, h3{
   text-transform: capitalize;
+}
+
+h1, h2, h3, h4{
+  font-weight: bold;
 }
 
 .btn-primary{
