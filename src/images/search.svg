@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L36 0L36 36L0 36L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="icon-Copy-2">
+    <path d="M0 27.5C0 12.3122 12.3122 0 27.5 0C42.6878 0 55 12.3122 55 27.5C55 42.6878 42.6878 55 27.5 55C12.3122 55 0 42.6878 0 27.5Z" id="Ellipse" fill="#AFE4F5" fill-rule="evenodd" stroke="none" />
+    <g id="Search-icon" transform="translate(6.999939 7)">
+      <path d="M0 0L36 0L36 36L0 36L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+      <g clip-path="url(#mask_1)">
+        <path d="M17.395 4.79504C10.6282 4.79504 5.15503 10.2682 5.15503 17.035C5.15503 23.8019 10.6282 29.275 17.395 29.275C19.811 29.275 22.0469 28.5663 23.9425 27.3625L32.785 36.205L35.845 33.1451L27.115 24.4375C28.6844 22.3788 29.635 19.8279 29.635 17.035C29.635 10.2682 24.1619 4.79504 17.395 4.79504L17.395 4.79504ZM17.395 7.67505C22.5785 7.67505 26.755 11.8516 26.755 17.035C26.755 22.2185 22.5785 26.3951 17.395 26.3951C12.2116 26.3951 8.03503 22.2185 8.03503 17.035C8.03503 11.8516 12.2116 7.67505 17.395 7.67505L17.395 7.67505Z" id="Shape" fill="#005A77" fill-rule="evenodd" stroke="none" />
+      </g>
+    </g>
+  </g>
+</svg>

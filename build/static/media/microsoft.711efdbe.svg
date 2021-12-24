@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="137px" height="137px" viewBox="0 0 137 137" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L137 0L137 137L0 137L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Microsoft-icon">
+    <path d="M0 0L137 0L137 137L0 137L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M62.7917 62.7917L17.125 62.7917L17.125 17.125L62.7917 17.125L62.7917 62.7917Z" id="Shape" fill="#FF5722" fill-rule="evenodd" stroke="none" />
+      <path d="M119.875 62.7917L74.2084 62.7917L74.2084 17.125L119.875 17.125L119.875 62.7917Z" id="Shape" fill="#4CAF50" fill-rule="evenodd" stroke="none" />
+      <path d="M119.875 119.875L74.2084 119.875L74.2084 74.2084L119.875 74.2084L119.875 119.875Z" id="Shape" fill="#FFC107" fill-rule="evenodd" stroke="none" />
+      <path d="M62.7917 119.875L17.125 119.875L17.125 74.2084L62.7917 74.2084L62.7917 119.875Z" id="Shape" fill="#03A9F4" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

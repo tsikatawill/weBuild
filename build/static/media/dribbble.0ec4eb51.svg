@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="127px" height="127px" viewBox="0 0 127 127" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L121 0L121 121L0 121L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Dribbble-icon" transform="translate(3 3)">
+    <path d="M0 0L121 0L121 121L0 121L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M60.5 7.5625C31.2635 7.5625 7.56257 31.2633 7.5625 60.4999C7.56242 89.7364 31.2632 113.437 60.4997 113.438C89.7363 113.438 113.437 89.7368 113.437 60.5003C113.438 31.2638 89.7368 7.56273 60.5003 7.5625L60.5 7.5625Z" id="Shape" fill="#ED7899" fill-rule="evenodd" stroke="none" />
+      <path d="M76.5703 16.0479C90.6592 21.1563 101.649 32.7837 105.881 47.2659" id="Shape" fill="none" fill-rule="evenodd" stroke="#F283A5" stroke-width="6" stroke-linecap="round" />
+      <path d="M14.6523 71.8438C19.7381 92.461 38.3116 107.766 60.5 107.766" id="Shape" fill="none" fill-rule="evenodd" stroke="#E0678F" stroke-width="6" stroke-linecap="round" />
+      <path d="M58.4146 101.935L56.524 105.701M48.3489 100.057L46.4583 103.653M39.0565 96.1516L37.1091 99.394M25.5954 83.1536L22.4248 85.2125M21.3942 74.7251L17.8398 76.6157M60.5 113.438C31.3088 113.438 7.5625 89.6912 7.5625 60.5C7.5625 31.3088 31.3088 7.5625 60.5 7.5625C89.6913 7.5625 113.438 31.3088 113.438 60.5C113.438 89.6912 89.6912 113.438 60.5 113.438L60.5 113.438Z" id="Shape" fill="none" fill-rule="evenodd" stroke="#8D6C9F" stroke-width="2" stroke-linecap="round" />
+      <path d="M83.8228 108.049C83.2405 104.221 74.1428 47.6606 40.0511 11.6423M24.8712 99.6339C27.8074 94.1152 53.0983 50.6573 112.853 68.5936" id="Shape" fill="none" fill-rule="evenodd" stroke="#8D6C9F" stroke-width="2" />
+      <path d="M7.901 54.4991C12.2646 54.8299 57.8721 57.7528 85.0782 37.2773M90.75 32.3107C91.7388 31.3294 92.6747 30.2896 93.5859 29.2233" id="Shape" fill="none" fill-rule="evenodd" stroke="#8D6C9F" stroke-width="2" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
